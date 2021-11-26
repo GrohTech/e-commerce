@@ -9,9 +9,7 @@ https://youtu.be/43o-xXcKr_M
 
 ## Description 
 
-This app will help companies stay organized with their employee data. Companies can query existing employee information or update employee information. 
-
-When initiated, this app presents the user with a series of choices. Depending on the choice the user makes, they will either be able to view or alter data.
+This app will give e-commerce companies the backend capabilities to create, organize, update, and delete product data.
 
   
 ## Table of Contents 
@@ -37,15 +35,15 @@ Clone repository:
 git clone <repository link>
 ```
 
-Add all dependencies:
+Add npm dependencies:
 ```
 npm install
 ```
-Seed the database:
+Seed database:
 ```
 npm run seed
 ```
-Start the server:
+Create tables and start server:
 ```
 npm run start
 ```
