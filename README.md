@@ -69,7 +69,10 @@ npm run start
 1. Lauren Groh 
 2. Front-end starter code from UW Extended Campus Trilogy Bootcamp - with additional help from Trilogy tutor Ismael Lopez, Trilogy materials, and the below resources.
  * [Syntax TV](https://youtu.be/43o-xXcKr_M)
-
+ * [Stack Overflow](https://stackoverflow.com/questions/29233896/sequelize-table-without-column-id)
+ * [Grepper](https://www.codegrepper.com/code-examples/javascript/numeric+validation+in+sequelize+in+node+js)
+ * [API Reference](https://sequelize.org/v5/manual/data-types.html)
+ * [API Reference](https://sequelize.org/master/manual/model-basics.html#default-values)
 
 ## Questions
 
