@@ -45,7 +45,7 @@ npm run seed
 ```
 Create tables and start server:
 ```
-npm run start
+npm start
 ```
 
 1. Select a choice from the list.
