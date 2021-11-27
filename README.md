@@ -1,10 +1,3 @@
-# e-commerce
-
-
-Syntax TV
-https://youtu.be/43o-xXcKr_M
-
-
 # E-Commerce Backend
 
 ## Description 
@@ -18,11 +11,6 @@ This app will give e-commerce companies the backend capabilities to create, orga
 * [Languages & Tools](#languages-tools)
 * [Credits](#credits)
 * [Questions](#questions)
-
-![Employee Tracker screenshot-1](./assets/images/screenshot-1.png "screenshot-1")
-![Employee tracker screenshot-2](./assets/images/screenshot-2.png "screenshot-2")
-![Employee tracker screenshot-3](./assets/images/screenshot-3.png "screenshot-3")
-![Employee tracker screenshot-4](./assets/images/screenshot-4.png "screenshot-3")
   
 ## Installation
 
@@ -48,10 +36,10 @@ Create tables and start server:
 npm start
 ```
 
-1. Select a choice from the list.
-2. Answer questions, if applicable.
-3. Continue selecting choicesa, as needed.
-4. View, add, update information, as needed.
+1. Go to RESTful API client
+2. Test GET, POST, PUT, DELETE routes
+3. Verify database has been updated in MySQL workbench
+
 
 [App Demo Video](https://watch.screencastify.com/v/cL3W8P0wV9iu4ffjihSJ)
 
