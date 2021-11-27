@@ -74,6 +74,7 @@ npm run start
  * [Sequelize API Reference](https://sequelize.org/v5/manual/data-types.html)
  * [Sequelize API Reference](https://sequelize.org/master/manual/model-basics.html#default-values)
  * [Sequelize API Reference](https://sequelize.org/master/class/lib/associations/base.js~Association.html)
+ * [Steve Griffith - Prof3ssorSt3v3](https://youtu.be/5WFyhsnU4Ik)
 
 ## Questions
 
