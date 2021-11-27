@@ -71,8 +71,9 @@ npm run start
  * [Syntax TV](https://youtu.be/43o-xXcKr_M)
  * [Stack Overflow](https://stackoverflow.com/questions/29233896/sequelize-table-without-column-id)
  * [Grepper](https://www.codegrepper.com/code-examples/javascript/numeric+validation+in+sequelize+in+node+js)
- * [API Reference](https://sequelize.org/v5/manual/data-types.html)
- * [API Reference](https://sequelize.org/master/manual/model-basics.html#default-values)
+ * [Sequelize API Reference](https://sequelize.org/v5/manual/data-types.html)
+ * [Sequelize API Reference](https://sequelize.org/master/manual/model-basics.html#default-values)
+ * [Sequelize API Reference](https://sequelize.org/master/class/lib/associations/base.js~Association.html)
 
 ## Questions
 
