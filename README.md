@@ -14,7 +14,7 @@ This app will give e-commerce companies the backend capabilities to create, orga
   
 ## Installation
 
-Users will need Node.js, Inquirer, Express, Dotenv, and MySQL2.
+Users will need Node.js, Express, Dotenv, Sequelize, MySQL2, MySQL Workbench, and a RESTful API client (Ex. Insomnia, Postman).
   
 ## Instructions 
 
@@ -26,6 +26,18 @@ git clone <repository link>
 Add npm dependencies:
 ```
 npm install
+```
+Sign into MySQL:
+```
+mysql -u root -p
+```
+Import database:
+```
+source db/schema.sql
+```
+Exit MySQL:
+```
+quit
 ```
 Seed database:
 ```
@@ -41,16 +53,18 @@ npm start
 3. Verify database has been updated in MySQL workbench
 
 
-[App Demo Video](https://watch.screencastify.com/v/cL3W8P0wV9iu4ffjihSJ)
+[App Demo Video](https://watch.screencastify.com/v/oSOLOP3PlxR8FtrwP5UU)
 
 ## Languages & Tools
 
 * JavaScript
 * Node.js
-* Inquirer
+* Dotenv
 * Express
-* Heroku
+* Sequelize
 * MySQL2
+* MySQL Workbench
+* Insomnia
 
 ## Credits
 
